@@ -4,6 +4,12 @@ using System.Text;
 
 namespace FactoryMethodPattern.StructuralCode
 {
+    /*
+    OUTPUT:
+    Created ConcreteProductA
+    Created ConcreteProductB
+    */
+    
     /// <summary>
     /// Main startup class for Structural 
     /// Factory Method Design Pattern.
