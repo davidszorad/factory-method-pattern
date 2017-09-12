@@ -9,6 +9,9 @@ namespace FactoryMethodPattern
     
     This structural code demonstrates the Factory method offering great flexibility in creating different objects. 
     The Abstract class may provide a default object, but each subclass can instantiate an extended version of the object.
+    
+    Define an interface for creating an object, but let subclasses decide which class to instantiate. 
+    Factory Method lets a class defer instantiation to subclasses.
     */
 
     /// <summary>
