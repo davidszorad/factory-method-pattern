@@ -12,6 +12,19 @@ namespace FactoryMethodPattern
     
     Define an interface for creating an object, but let subclasses decide which class to instantiate. 
     Factory Method lets a class defer instantiation to subclasses.
+    
+    OUTPUT:
+    Resume -------
+     SkillsPage
+     EducationPage
+     ExperiencePage
+
+    Report -------
+     IntroductionPage
+     ResultsPage
+     ConclusionPage
+     SummaryPage
+     BibliographyPage
     */
 
     /// <summary>
