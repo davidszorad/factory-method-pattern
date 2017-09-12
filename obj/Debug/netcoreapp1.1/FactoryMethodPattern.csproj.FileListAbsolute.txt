@@ -1,0 +1,9 @@
+C:\david\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp1.1\FactoryMethodPattern.deps.json
+C:\david\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp1.1\FactoryMethodPattern.runtimeconfig.json
+C:\david\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp1.1\FactoryMethodPattern.runtimeconfig.dev.json
+C:\david\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp1.1\FactoryMethodPattern.dll
+C:\david\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\netcoreapp1.1\FactoryMethodPattern.pdb
+C:\david\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp1.1\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+C:\david\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp1.1\FactoryMethodPattern.AssemblyInfo.cs
+C:\david\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp1.1\FactoryMethodPattern.dll
+C:\david\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\netcoreapp1.1\FactoryMethodPattern.pdb
